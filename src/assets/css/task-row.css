@@ -1,0 +1,7 @@
+.task-row {
+    display: block;
+    border-bottom: 1px solid grey;
+    width: 800px;
+    margin: 10px auto;
+
+}
